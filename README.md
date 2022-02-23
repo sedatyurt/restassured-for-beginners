@@ -4,6 +4,6 @@ Gereklilikler:
 IntelliJ IDEA indirin -> https://www.jetbrains.com/idea/download/
 
 Nasıl Kullanılır:
-Projeyi IntelliJ IDEA'da açın.
-pom.xml dosyasını içe aktarın.
-Test sınıflarını sağ tıklayıp, Run edin.
+1. Projeyi IntelliJ IDEA'da açın.
+2. pom.xml dosyasını içe aktarın.
+3. Test sınıflarını sağ tıklayıp, Run edin.
